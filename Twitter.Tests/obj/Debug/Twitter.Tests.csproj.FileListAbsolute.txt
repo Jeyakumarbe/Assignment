@@ -1,0 +1,8 @@
+C:\Users\jeyakumarbe\Projects\Twitter-master\Twitter.Tests\bin\Debug\Twitter.Tests.dll
+C:\Users\jeyakumarbe\Projects\Twitter-master\Twitter.Tests\bin\Debug\Twitter.Tests.pdb
+C:\Users\jeyakumarbe\Projects\Twitter-master\Twitter.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jeyakumarbe\Projects\Twitter-master\Twitter.Tests\obj\Debug\Twitter.Tests.csprojAssemblyReference.cache
+C:\Users\jeyakumarbe\Projects\Twitter-master\Twitter.Tests\obj\Debug\Twitter.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jeyakumarbe\Projects\Twitter-master\Twitter.Tests\obj\Debug\Twitter.Tests.csproj.CopyComplete
+C:\Users\jeyakumarbe\Projects\Twitter-master\Twitter.Tests\obj\Debug\Twitter.Tests.dll
+C:\Users\jeyakumarbe\Projects\Twitter-master\Twitter.Tests\obj\Debug\Twitter.Tests.pdb
